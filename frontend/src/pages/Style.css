@@ -1,0 +1,14 @@
+.content-page {
+  width: 85% !important;
+  position: absolute;
+  left: 15%;
+}
+.resit-colors {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  background: color;
+  margin: 0px 2px;
+  padding: 5px;
+}

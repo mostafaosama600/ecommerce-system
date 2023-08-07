@@ -1,0 +1,26 @@
+.groub-btns {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn-add {
+  color: #fafafa;
+  background: #000;
+  border: 1px solid black;
+}
+.btn-add:hover {
+  color: black;
+  background: #fafafa;
+  border: 1px solid black;
+}
+
+.btn-details {
+  color: #fafafa;
+  background: #080880;
+  border: 1px solid black;
+}
+.btn-details:hover {
+  border: 1px solid black;
+}
